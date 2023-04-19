@@ -1,18 +1,17 @@
 body {
     height: 100vh;
     background-color: #444444;
-
 }
-.container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    /* justify-content: center;
-    align-content: center; */
+header h1 {
+    margin-bottom: 5vh;
 }
 div {
-    margin: 3vh;
+    margin-right: 5vh;
+    margin-bottom: 5vh;
 }
-.btn-danger {
-    margin-top: 1vh;
+.led {
+    text-align: left;
+}
+.panel-body {
+    text-align: left;
 }
