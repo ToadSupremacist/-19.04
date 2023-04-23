@@ -2,6 +2,10 @@ body {
     height: 100vh;
     background-color: #444444;
 }
+.froggert-mode {
+    background-image: url("froggert-background.png");
+    background-size: cover;
+}
 header h1 {
     margin-bottom: 5vh;
 }
